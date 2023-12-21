@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm BHASKAR RAJ</h1>
 <h3 align="center">A passionate data science enthusiastic from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
+<img align="right" alt="coding" width="400" scr="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarraj22&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarraj22" /> </p>
 
