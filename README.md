@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm BHASKAR RAJ</h1>
 <h3 align="center">A passionate data science enthusiastic</h3>
 
-![animation](https://github.com/BhaskarRaj22/BhaskarRaj22/assets/124422747/d17bfb0a-0031-4704-979f-b3240100df90)
+![animation]([https://github.com/BhaskarRaj22/BhaskarRaj22/assets/124422747/d17bfb0a-0031-4704-979f-b3240100df90](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarraj22&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarraj22" /> </p>
 
