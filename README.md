@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarraj22&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarraj22" /> </p>
 
-- 🌱 I’m currently learning **Artificial intelligence, Machine learning, JavaScript**
+- 🌱 Graducated in **Artificial intelligence and Machine learning**
 
-- 💬 Ask me about **Js, Python, Data science, Analysis**
+- 💬 Ask me about **Python, Data science, Analysis, ML, Js, CSS**
 
-- 📫 How to reach me **bhaskaryash22@gmail.com**
+- 📫 How to reach me **bhaskaryash22@gmail.com and https://www.linkedin.com/in/bhaskar-raj-2120b2209**
 
 - ⚡ Fun fact **Orewa Monkey.D.Luffy Kaizoku Oni Naru😁**
 
