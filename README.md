@@ -1,6 +1,6 @@
 ![logo](https://github.com/BhaskarRaj22/BhaskarRaj22/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm BHASKAR RAJ</h1>
-<h3 align="center">A passionate data science enthusiastic from India</h3>
+<h3 align="center">A passionate data science enthusiastic</h3>
 
 ![animation](https://github.com/BhaskarRaj22/BhaskarRaj22/assets/124422747/d17bfb0a-0031-4704-979f-b3240100df90)
 
